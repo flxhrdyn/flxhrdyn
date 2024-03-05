@@ -6,7 +6,7 @@ Informatics undergraduate at Gunadarma University. I’m a highly motivated indi
 </p>
 
 - 🔭 I’m currently studying at Gunadarma University
-- 🌱 I’m currently learning Web Development, Python, and Machine Learning
+- 🌱 I’m currently learning Machine Learning, Python, and Web Development
 
 ### Github Statistic
 <p align="left">
