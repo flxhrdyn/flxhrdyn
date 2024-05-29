@@ -6,7 +6,7 @@ Informatics undergraduate at Gunadarma University with experience in Artificial 
 </p>
 
 - 🔭 I’m currently studying at Gunadarma University
-- 🌱 I’m currently learning Machine Learning, Python, and Web Development
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Data Analysis, and Web Development
 
 ### Github Statistic
 <p align="left">
