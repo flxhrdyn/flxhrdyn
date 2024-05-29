@@ -2,7 +2,7 @@
 
 ### My name is **Felix Hardyan**
 <p align="justify">
-Informatics undergraduate at Gunadarma University. I’m a highly motivated individual and currently seeking experience where I can hone my skills and contribute to the community. I’m eager to learn Artificial      Intelligence and Machine Learning. The potential of AI and Machine Learning to change the world sparks my curiosity like nothing else, and I’m driven to be part of that evolution.
+Informatics undergraduate at Gunadarma University with experience in Artificial Intelligence, Machine Learning, and Data Analysis. Highly motivated individual with strong analytical and problem-solving skills, eager to apply my knowledge and contribute to the community.
 </p>
 
 - 🔭 I’m currently studying at Gunadarma University
