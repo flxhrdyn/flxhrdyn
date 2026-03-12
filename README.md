@@ -5,7 +5,7 @@
 Informatics Graduate with experience in Artificial Intelligence, Machine Learning, and Data Analysis. Highly motivated individual with strong analytical and problem-solving skills, eager to apply my knowledge and contribute to the community.
 </p>
 
-- 🔭 I’m currently studying at Gunadarma University
+- 🔭 Graduated from Gunadarma University
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data Analysis, and Data Science
 
 ### Github Statistic
