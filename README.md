@@ -81,6 +81,6 @@ Informatics Graduate with hands-on experience in <b>Artificial Intelligence</b>,
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-windriyareksa-hardyan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://canva.link/qnoihhyeygumfrv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://canva.link/qnoihhyeygumfrv)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixhardyanwork@gmail.com)
 ---
