@@ -10,12 +10,12 @@ Informatics Graduate with hands-on experience in <b>Artificial Intelligence</b>,
 
 ## 🚀 About Me
 
-- 🎓 Informatics Graduate from **Gunadarma University**
-- 🤖 Interested in **AI Engineering, Machine Learning, Deep Learning, and Data Science**
-- 📊 Experienced in transforming data into actionable insights
-- 🛠️ Passionate about building intelligent applications and automation systems
-- 📚 Continuously learning new technologies and best practices
-- 🤝 Open to collaboration on AI, ML, and Data-related projects
+- Informatics Graduate from **Gunadarma University**
+- Interested in **AI Engineering, Machine Learning, Deep Learning, and Data Science**
+- Experienced in transforming data into actionable insights
+- Passionate about building intelligent applications and automation systems
+- Continuously learning new technologies and best practices
+- Open to collaboration on AI, ML, and Data-related projects
 
 ---
 
