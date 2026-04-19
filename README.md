@@ -71,8 +71,8 @@ Informatics Graduate with hands-on experience in <b>Artificial Intelligence</b>,
 
 <p align="left">
   <a href="https://github.com/flxhrdyn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flxhrdyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flxhrdyn&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flxhrdyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flxhrdyn&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
