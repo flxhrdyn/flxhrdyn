@@ -12,7 +12,9 @@
 ### Overview
 
 <p align="justify">
-Informatics Graduate from <b>Gunadarma University</b> with a focus on <b>AI Engineering</b>, <b>Deep Learning</b>, and <b>Data Science</b>. I specialize in transforming complex data into actionable insights and building scalable, production-ready AI automation systems. Passionate about solving real-world problems through data-driven approaches and continuous technological learning, I am always open to collaborating on innovative AI/ML initiatives.
+AI Engineer with a solid Informatics foundation, specializing in architecting production-ready systems across NLP and Computer Vision. I have hands-on experience developing Agentic AI workflows, RAG pipelines, and real-time object detection models using YOLO. My focus is on building intelligent, scalable solutions that effectively bridge the gap between complex algorithms and real-world business requirements.
+
+​​I have hands-on experience with containerization and cloud deployment using Docker and Azure (ACR/AAS), ensuring AI models are scalable and production-ready. Having mentored 60+ learners in end-to-end Data Science Course, I possess a deep understanding of the full development lifecycle and a strong commitment to maintaining robust, clean, and well-documented codebases.
 </p>
 
 ---
