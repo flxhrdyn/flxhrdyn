@@ -2,7 +2,7 @@
   <h1>Felix Hardyan</h1>
   <p><b>AI Engineer | Deep Learning Enthusiast</b></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixhrdyn/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixhrdyn)
   [![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=flat-square&logo=google-chrome&logoColor=white)](https://canva.link/qnoihhyeygumfrv)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felixhardyanwork@gmail.com)
 </div>
