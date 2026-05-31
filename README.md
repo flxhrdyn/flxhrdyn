@@ -12,7 +12,7 @@
 ### Overview
 
 <p align="justify">
-AI Engineer with a solid Informatics foundation, specializing in architecting production-ready systems across Data Science, Machine Learning, and Deep Learning. I have hands-on experience developing Agentic AI workflows, Advanced RAG pipelines, and LLM fine-tuning (PEFT/QLoRA), alongside real-time object detection and Computer Vision models using YOLO. My focus is on building intelligent, scalable solutions that effectively bridge the gap between complex algorithms and real-world business requirements.
+AI Engineer specializing in architecting production-ready systems across Data Science, Machine Learning, and Deep Learning. I have hands-on experience developing Agentic AI workflows, Advanced RAG pipelines, and LLM fine-tuning (PEFT/QLoRA), alongside real-time object detection and Computer Vision models using YOLO. My focus is on building intelligent, scalable solutions that effectively bridge the gap between complex algorithms and real-world business requirements.
 
 I have hands-on experience with containerization and cloud deployment using Docker and Azure (ACR/AAS), ensuring AI models are scalable and production-ready. Having mentored 60+ learners in end-to-end Data Science courses and delivered technical AI training to international academics, I possess a deep understanding of the full development lifecycle and a strong commitment to maintaining robust, clean, and well-documented codebases.
 </p>
