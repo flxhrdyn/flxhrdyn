@@ -64,5 +64,3 @@ My deployment experience spans Docker and Azure (ACR/AAS) for scalable, producti
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flxhrdyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flxhrdyn&layout=compact&langs_count=8&theme=algolia"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" />
