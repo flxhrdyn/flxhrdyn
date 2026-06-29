@@ -1,10 +1,13 @@
 <div align="center">
-  <h1>Felix Hardyan</h1>
-  <p><b>AI Engineer | Deep Learning Enthusiast</b></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixhrdyn)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=flat-square&logo=google-chrome&logoColor=white)](https://canva.link/qnoihhyeygumfrv)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felixhardyanwork@gmail.com)
+# Felix Hardyan
+
+**AI Engineer | Deep Learning Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/felixhrdyn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felixhardyanwork@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white)](https://canva.link/qnoihhyeygumfrv)
+
 </div>
 
 ---
@@ -12,14 +15,14 @@
 ### Overview
 
 <p align="justify">
-AI Engineer specializing in architecting production-ready systems across Data Science, Machine Learning, and Deep Learning. I have hands-on experience developing Agentic AI workflows, Advanced RAG pipelines, and LLM fine-tuning (PEFT/QLoRA), alongside real-time object detection and Computer Vision models using YOLO. My focus is on building intelligent, scalable solutions that effectively bridge the gap between complex algorithms and real-world business requirements.
+AI Engineer specializing in architecting production-ready systems across Machine Learning and Deep Learning. I build Agentic AI workflows, Advanced RAG pipelines, and fine-tuned LLMs (PEFT/QLoRA), alongside real-time Computer Vision models using YOLO - bridging complex algorithms with real-world business requirements.
 
-I have hands-on experience with containerization and cloud deployment using Docker and Azure (ACR/AAS), ensuring AI models are scalable and production-ready. Having mentored 100+ learners in end-to-end Data Science courses and delivered technical AI training to international academics, I possess a deep understanding of the full development lifecycle and a strong commitment to maintaining robust, clean, and well-documented codebases.
+My deployment experience spans Docker and Azure (ACR/AAS) for scalable, production-grade ML systems. I have also mentored 100+ learners in end-to-end Data Science and delivered technical AI training to international academics.
 </p>
 
 ---
 
-### Tech Stack & Skills
+### Tech Stack
 
 #### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,11 +42,10 @@ I have hands-on experience with containerization and cloud deployment using Dock
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
 
 #### MLOps & Deployment
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -56,25 +58,11 @@ I have hands-on experience with containerization and cloud deployment using Dock
 
 ---
 
-### Featured Interests
-
-- Retrieval-Augmented Generation (RAG)
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Data Science
-- MLOps & Deployment
-
----
-
-### System Analytics
+### GitHub Stats
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flxhrdyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flxhrdyn&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
----
-<div align="center">
-  <sub>Felix Hardyan - 2026</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" />
