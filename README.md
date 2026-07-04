@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Overview
+### Overview
 
 AI Engineer specializing in architecting production-ready systems across Machine Learning and Deep Learning. I build Agentic AI workflows, Advanced RAG pipelines, and fine-tuned LLMs (PEFT/QLoRA), alongside real-time Computer Vision models using YOLO—bridging complex algorithms with real-world business requirements.
 
@@ -20,14 +20,14 @@ My deployment experience spans Docker and Azure (ACR/AAS) for scalable, producti
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 💻 Programming
+#### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-#### 🤖 AI & Machine Learning
+#### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -39,7 +39,7 @@ My deployment experience spans Docker and Azure (ACR/AAS) for scalable, producti
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
 
-#### 🚀 MLOps & Deployment
+#### MLOps & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -47,7 +47,7 @@ My deployment experience spans Docker and Azure (ACR/AAS) for scalable, producti
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-#### 📊 Data & Databases
+#### Data & Databases
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
@@ -56,7 +56,7 @@ My deployment experience spans Docker and Azure (ACR/AAS) for scalable, producti
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flxhrdyn&theme=algolia&hide_border=true" alt="Felix Streak" />
