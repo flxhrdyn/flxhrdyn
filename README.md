@@ -2,7 +2,7 @@
 
 # Felix Hardyan
 
-### AI Engineer | BNSP Certified Data Scientist | Generative AI, NLP, and Computer Vision
+#### AI Engineer | BNSP Certified Data Scientist | Generative AI, NLP, and Computer Vision
 
 Building production-ready AI systems - from Data Science to Gen AI.
 
