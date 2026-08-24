@@ -66,11 +66,9 @@ Beyond building systems, I actively share this expertise: I've mentored 100+ lea
 
 ### GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flxhrdyn&theme=algolia&hide_border=true" alt="Felix Streak" height="165" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flxhrdyn&theme=algolia&background=0b0c0e&border=23262d&ring=10b981&fire=10b981&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=10b981&sideLabels=9ca3af" alt="Felix GitHub Streak" height="155" />
+</p>
 
 ---
 
