@@ -1,8 +1,6 @@
-<div align="center">
-
 <p align="center">
   <a href="https://flxhrdyn.vercel.app">
-    <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/banner.svg" alt="Felix Windriyareksa Hardyan - AI Engineer & Data Scientist" width="100%" />
+    <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/banner.png?v=8" alt="Felix Windriyareksa Hardyan - AI Engineer & Data Scientist" width="100%" />
   </a>
 </p>
 
@@ -13,8 +11,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:felixhardyanwork@gmail.com"><img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/svg/email.svg" width="28" height="28" alt="Email"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/flxhrdyn"><img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/svg/github.svg" width="28" height="28" alt="GitHub"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/felixhrdyn"><img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/svg/huggingface.svg" width="28" height="28" alt="Hugging Face"></a>
+</p>
 
-</div>
+
 
 ### About Me                                                                                                  
 I'm an AI Engineer focused on architecting production-ready Machine Learning and Deep Learning systems. My experience spans building Agentic AI workflows, Advanced RAG pipelines, fine-tuning LLMs (PEFT/QLoRA), and real-time Computer Vision models using YOLO. I bridge complex algorithms with real-world business requirements, from model experimentation through to production-grade deployment on Docker and Azure.
