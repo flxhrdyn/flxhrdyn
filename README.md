@@ -6,6 +6,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://flxhrdyn.vercel.app"><img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/svg/portfolio.svg" width="28" height="28" alt="Portfolio"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/felixhrdyn"><img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/svg/linkedin.svg" width="28" height="28" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:felixhardyanwork@gmail.com"><img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/svg/email.svg" width="28" height="28" alt="Email"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 ---
