@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ### About Me                                                                                                  
 I'm an AI Engineer focused on architecting production-ready Machine Learning and Deep Learning systems. My experience spans building Agentic AI workflows, Advanced RAG pipelines, fine-tuning LLMs (PEFT/QLoRA), and real-time Computer Vision models using YOLO. I bridge complex algorithms with real-world business requirements, from model experimentation through to production-grade deployment on Docker and Azure.
 
