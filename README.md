@@ -1,14 +1,10 @@
 <div align="center">
 
-# Felix Hardyan
-
-#### AI Engineer | BNSP Certified Data Scientist | Generative AI, NLP, and Computer Vision
-
-Building production-ready AI systems - from Data Science to Gen AI.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixhrdyn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixhardyanwork@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flxhrdyn.vercel.app/)
+<p align="center">
+  <a href="https://flxhrdyn.vercel.app">
+    <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/banner.svg" alt="Felix Windriyareksa Hardyan - AI Engineer & Data Scientist" width="100%" />
+  </a>
+</p>
 
 </div>
 
