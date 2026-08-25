@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://flxhrdyn.vercel.app">
-    <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/banner.png?v=11" alt="Felix Windriyareksa Hardyan - AI Engineer & Data Scientist" width="100%" />
+    <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/banner.png?v=14" alt="Felix Windriyareksa Hardyan - AI Engineer & Data Scientist" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/readme/header-connect.png?v=6" alt="03 // Connect & Contacts" width="100%" />
+  <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/readme/header-connect.png?v=7" alt="03 // Connect & Contacts" width="100%" />
 </p>
 
 <p align="center">
@@ -20,10 +20,16 @@
   <a href="https://huggingface.co/felixhrdyn"><img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/svg/huggingface.svg" width="28" height="28" alt="Hugging Face"></a>
 </p>
 
+<p align="center">
+  <a href="mailto:felixhardyanwork@gmail.com">
+    <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/svg/open-to-work.svg?v=1" alt="Open to AI Engineer & Data Scientist Opportunities" />
+  </a>
+</p>
+
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/readme/header-stats.png?v=6" alt="04 // GitHub Activity & Streak" width="100%" />
+  <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/readme/header-stats.png?v=7" alt="04 // GitHub Activity & Streak" width="100%" />
 </p>
 
 <p align="center">
