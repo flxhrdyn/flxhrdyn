@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Felix Windriyareksa Hardyan</title>
+  <desc id="desc">AI Engineer and Data Scientist based in Jakarta, Indonesia.</desc>
+  <defs>
+    <style><![CDATA[
+      .paper { fill: #f7f6f2; }
+      .ink { fill: #171817; }
+      .muted { fill: #65645e; }
+      .rule { stroke: #d9d7cf; }
+      .sans { font-family: Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .eyebrow { font-size: 13px; letter-spacing: 1.5px; }
+      .name { font-size: 62px; font-weight: 550; letter-spacing: -3.5px; }
+      .body { font-size: 18px; font-weight: 400; }
+      .meta { font-size: 12px; letter-spacing: 1.1px; }
+      @media (prefers-color-scheme: dark) {
+        .paper { fill: #101110; }
+        .ink { fill: #f1f0ec; }
+        .muted { fill: #aaa9a1; }
+        .rule { stroke: #343530; }
+      }
+    ]]></style>
+    <clipPath id="portrait-clip"><rect x="916" y="30" width="220" height="250" /></clipPath>
+  </defs>
+  <rect width="1200" height="330" class="paper" />
+  <text x="72" y="58" class="mono muted eyebrow">AI ENGINEER &amp; DATA SCIENTIST</text>
+  <text x="1128" y="58" text-anchor="end" class="mono muted meta">JAKARTA, INDONESIA</text>
+  <text x="72" y="143" class="sans ink name">Felix Windriyareksa</text>
+  <text x="72" y="210" class="sans ink name">Hardyan</text>
+  <text x="72" y="258" class="sans muted body">AI/ML Engineer building production AI systems, deep learning architectures,</text>
+  <text x="72" y="285" class="sans muted body">and industrial data pipelines.</text>
+  <rect x="916" y="30" width="220" height="250" fill="#eeede7" />
+  <image href="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/felix_dgx.webp" x="916" y="30" width="220" height="250" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait-clip)" />
+  <rect x="916" y="30" width="220" height="250" fill="none" class="rule" stroke-width="1" />
+  <line x1="72" y1="316" x2="1128" y2="316" class="rule" stroke-width="1" />
+</svg>

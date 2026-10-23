@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Research and certification</title>
+  <desc id="desc">Coral reef condition research with 89 percent MobileNetV2 test accuracy, and BNSP Associate Data Scientist certification.</desc>
+  <defs>
+    <style><![CDATA[
+      .paper { fill: #f7f6f2; }
+      .ink { fill: #171817; }
+      .muted { fill: #65645e; }
+      .rule { stroke: #d9d7cf; }
+      .sans { font-family: Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .label { font-size: 12px; letter-spacing: 1.5px; }
+      .heading { font-size: 38px; font-weight: 500; letter-spacing: -2px; }
+      .metric { font-size: 76px; font-weight: 500; letter-spacing: -5px; }
+      .small { font-size: 12px; letter-spacing: .7px; }
+      .title { font-size: 20px; font-weight: 550; }
+      .body { font-size: 15px; }
+      @media (prefers-color-scheme: dark) {
+        .paper { fill: #101110; }
+        .ink { fill: #f1f0ec; }
+        .muted { fill: #aaa9a1; }
+        .rule { stroke: #343530; }
+      }
+    ]]></style>
+  </defs>
+  <rect width="1200" height="300" class="paper" />
+  <text x="72" y="58" class="mono muted label">03 / RESEARCH &amp; CERTIFICATION</text>
+  <text x="72" y="108" class="sans ink heading">Research</text>
+  <text x="72" y="202" class="sans ink metric">89%</text>
+  <text x="78" y="230" class="mono muted small">MOBILENETV2 TEST ACCURACY</text>
+  <text x="430" y="157" class="sans ink title">Coral reef condition classification</text>
+  <text x="430" y="188" class="sans muted body">Compared CoralNet, InceptionV3, and MobileNetV2 for coral reef</text>
+  <text x="430" y="212" class="sans muted body">monitoring. Published in JITET, Vol. 13 No. 3.</text>
+  <line x1="430" y1="239" x2="1128" y2="239" class="rule" stroke-width="1" />
+  <text x="430" y="273" class="sans ink title">Associate Data Scientist</text>
+  <text x="1128" y="273" text-anchor="end" class="mono muted small">BNSP · 2025</text>
+  <line x1="72" y1="288" x2="1128" y2="288" class="rule" stroke-width="1" />
+</svg>

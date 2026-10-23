@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Portfolio">
+  <style>.ink{fill:none;stroke:#171817;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}@media(prefers-color-scheme:dark){.ink{stroke:#f1f0ec}}</style>
+  <circle class="ink" cx="12" cy="12" r="9.5" />
+  <path class="ink" d="M2.8 12h18.4M12 2.5c2.5 2.7 3.7 5.9 3.7 9.5s-1.2 6.8-3.7 9.5c-2.5-2.7-3.7-5.9-3.7-9.5S9.5 5.2 12 2.5Z" />
+</svg>

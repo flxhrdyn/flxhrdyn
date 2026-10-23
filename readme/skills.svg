@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Technical focus</title>
+  <desc id="desc">Skills across AI and machine learning, languages and backend, and cloud and MLOps.</desc>
+  <defs>
+    <style><![CDATA[
+      .paper { fill: #f7f6f2; }
+      .ink { fill: #171817; }
+      .muted { fill: #65645e; }
+      .rule { stroke: #d9d7cf; }
+      .sans { font-family: Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .label { font-size: 12px; letter-spacing: 1.5px; }
+      .heading { font-size: 38px; font-weight: 500; letter-spacing: -2px; }
+      .category { font-size: 12px; letter-spacing: .8px; }
+      .items { font-size: 16px; }
+      @media (prefers-color-scheme: dark) {
+        .paper { fill: #101110; }
+        .ink { fill: #f1f0ec; }
+        .muted { fill: #aaa9a1; }
+        .rule { stroke: #343530; }
+      }
+    ]]></style>
+  </defs>
+  <rect width="1200" height="330" class="paper" />
+  <text x="72" y="58" class="mono muted label">04 / TECHNICAL FOCUS</text>
+  <text x="72" y="108" class="sans ink heading">Selected capabilities</text>
+  <line x1="72" y1="132" x2="1128" y2="132" class="rule" stroke-width="1" />
+  <text x="72" y="174" class="mono muted category">AI &amp; MACHINE LEARNING</text>
+  <text x="400" y="174" class="sans ink items">Advanced RAG · AI agents · Deep learning · Computer vision · NLP · LLM fine-tuning</text>
+  <line x1="72" y1="194" x2="1128" y2="194" class="rule" stroke-width="1" />
+  <text x="72" y="234" class="mono muted category">LANGUAGES &amp; BACKEND</text>
+  <text x="400" y="234" class="sans ink items">Python · SQL · TypeScript · FastAPI · React · Next.js · Pandas · NumPy</text>
+  <line x1="72" y1="254" x2="1128" y2="254" class="rule" stroke-width="1" />
+  <text x="72" y="294" class="mono muted category">CLOUD &amp; MLOPS</text>
+  <text x="400" y="294" class="sans ink items">PyTorch · TensorFlow · Qdrant · Docker · Microsoft Azure · GCP · NVIDIA DGX</text>
+  <line x1="72" y1="316" x2="1128" y2="316" class="rule" stroke-width="1" />
+</svg>

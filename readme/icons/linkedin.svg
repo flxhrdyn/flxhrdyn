@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="LinkedIn">
+  <style>.solid{fill:#171817}.paper{fill:#f7f6f2}@media(prefers-color-scheme:dark){.solid{fill:#f1f0ec}.paper{fill:#101110}}</style>
+  <rect class="solid" x="2" y="2" width="20" height="20" rx="4" />
+  <text class="paper" x="5.3" y="17.2" font-family="Arial,sans-serif" font-size="14" font-weight="700">in</text>
+</svg>

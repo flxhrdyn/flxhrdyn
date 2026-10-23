@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Contact Felix</title>
+  <desc id="desc">Open to AI and machine learning engineering roles and practical collaborations.</desc>
+  <defs>
+    <style><![CDATA[
+      .paper { fill: #f7f6f2; }
+      .ink { fill: #171817; }
+      .muted { fill: #65645e; }
+      .rule { stroke: #d9d7cf; }
+      .sans { font-family: Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .label { font-size: 12px; letter-spacing: 1.5px; }
+      .heading { font-size: 42px; font-weight: 500; letter-spacing: -2.4px; }
+      .body { font-size: 16px; }
+      .email { font-size: 16px; font-weight: 550; }
+      @media (prefers-color-scheme: dark) {
+        .paper { fill: #101110; }
+        .ink { fill: #f1f0ec; }
+        .muted { fill: #aaa9a1; }
+        .rule { stroke: #343530; }
+      }
+    ]]></style>
+  </defs>
+  <rect width="1200" height="220" class="paper" />
+  <line x1="72" y1="20" x2="1128" y2="20" class="rule" stroke-width="1" />
+  <text x="72" y="62" class="mono muted label">05 / CONTACT</text>
+  <text x="72" y="123" class="sans ink heading">Let’s talk about AI engineering.</text>
+  <text x="72" y="159" class="sans muted body">Open to AI/ML engineering roles and practical collaborations.</text>
+  <text x="1128" y="123" text-anchor="end" class="sans ink email">felixhardyanwork@gmail.com</text>
+  <text x="1128" y="159" text-anchor="end" class="mono muted label">JAKARTA, INDONESIA</text>
+  <line x1="72" y1="197" x2="1128" y2="197" class="rule" stroke-width="1" />
+</svg>
