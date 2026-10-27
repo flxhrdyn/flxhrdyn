@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme/hero-geist-dgx.svg?v=ascii-fullframe-3" width="100%" alt="Felix Windriyareksa Hardyan in an ASCII rendering of the full DGX server room photo" />
+  <img src="./readme/hero-ascii-full.svg" width="100%" alt="Felix Windriyareksa Hardyan in an ASCII rendering of the full DGX server room photo" />
 </p>
 
 <p align="center">
