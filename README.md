@@ -1,9 +1,13 @@
-<p align="center">
-  <img src="./readme/hero.svg?v=ascii-portrait-2" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist, with an ASCII portrait" />
+﻿<p align="center">
+  <img src="./readme/hero.svg?v=ascii-portrait-4" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist, with an ASCII portrait" />
 </p>
 
 <p align="center">
-  <img src="./readme/about.svg" width="100%" alt="About Felix: AI/ML engineering, deep learning, and industrial data systems" />
+  <img src="./readme/about.svg?v=clean-edges-2" width="100%" alt="About Felix: AI/ML engineering, deep learning, and industrial data systems" />
+</p>
+
+<p align="center">
+  <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/contact.svg?v=clean-edges-2" width="100%" alt="Open to AI and machine learning engineering roles and practical collaborations" /></a>
 </p>
 
 <p align="center">
@@ -19,11 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/contact.svg" width="100%" alt="Open to AI and machine learning engineering roles and practical collaborations" /></a>
-</p>
-
-<p align="center">
-  <img src="./readme/streak-heading.svg" width="100%" alt="GitHub activity and streak" />
+  <img src="./readme/streak-heading.svg?v=clean-edges-2" width="100%" alt="GitHub activity and streak" />
 </p>
 
 <p align="center">
