@@ -7,7 +7,7 @@
 <br />
 
 <p align="left">
-  <img src="./readme/about.svg?v=left-justified-7" width="100%" alt="About Felix: AI and data work at Tunas Group, HPC UG, and Astra Visteon" />
+  <img src="./readme/about.svg?v=left-justified-8" width="100%" alt="About Felix: AI and data work at Tunas Group, HPC UG, and Astra Visteon" />
 </p>
 
 <br />
