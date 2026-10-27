@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./readme/hero.svg?v=2a0629e" width="76%" align="middle" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist based in Jakarta" />
-  <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/felix_dgx.webp" width="20%" align="middle" alt="Felix beside NVIDIA DGX compute systems" />
+  <img src="./readme/linkedin-banner.png" width="100%" alt="ASCII portrait of Felix Windriyareksa Hardyan, AI Engineer and Data Scientist" />
 </p>
 
 <p align="center">
