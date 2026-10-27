@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme/hero.svg?v=ascii-portrait-6" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist, with an ASCII portrait" />
+  <img src="./readme/hero-portfolio.svg" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist, with an ASCII portrait" />
 </p>
 
 <p align="center">
