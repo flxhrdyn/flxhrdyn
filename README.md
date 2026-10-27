@@ -1,49 +1,23 @@
 <p align="center">
   <a href="https://flxhrdyn.vercel.app">
-    <img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/hero.svg" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist in Jakarta, Indonesia" />
+    <img src="./readme/hero.svg" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist in Jakarta, Indonesia" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://flxhrdyn.vercel.app">
-    <img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/projects.svg" width="100%" alt="Selected projects: Aeroguard, InvenioAI, Amon Hen, Angrist, and LUCIAN" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/experience.svg" width="100%" alt="Experience at Tunas Group, HPC Universitas Gunadarma, Astra Visteon, and Universitas Gunadarma" />
-</p>
-
-<p align="center">
-  <a href="https://journal.eng.unila.ac.id/index.php/jitet/article/view/6591/3512">
-    <img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/research.svg" width="100%" alt="Coral reef classification research: MobileNetV2 reached 89 percent test accuracy; BNSP Associate Data Scientist certification, 2025" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/skills.svg" width="100%" alt="Technical focus across AI and machine learning, backend engineering, cloud, and MLOps" />
-</p>
-
-<p align="center">
-  <a href="mailto:felixhardyanwork@gmail.com">
-    <img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/contact.svg" width="100%" alt="Open to AI and machine learning engineering roles and practical collaborations. Contact Felix at felixhardyanwork@gmail.com." />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://flxhrdyn.vercel.app"><img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/icons/portfolio.svg" width="28" height="28" alt="Portfolio" /></a>
+  <a href="https://flxhrdyn.vercel.app"><img src="./readme/icons/portfolio.svg" width="28" height="28" alt="Portfolio" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/felixhrdyn"><img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/felixhrdyn"><img src="./readme/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:felixhardyanwork@gmail.com"><img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/icons/email.svg" width="28" height="28" alt="Email" /></a>
+  <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/icons/email.svg" width="28" height="28" alt="Email" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/flxhrdyn"><img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
+  <a href="https://github.com/flxhrdyn"><img src="./readme/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/felixhrdyn"><img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/icons/huggingface.svg" width="28" height="28" alt="Hugging Face" /></a>
+  <a href="https://huggingface.co/felixhrdyn"><img src="./readme/icons/huggingface.svg" width="28" height="28" alt="Hugging Face" /></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flxhrdyn/flxhrdyn/main/readme/streak-heading.svg" width="100%" alt="GitHub activity and streak" />
+  <img src="./readme/streak-heading.svg" width="100%" alt="GitHub activity and streak" />
 </p>
 
 <p align="center">
