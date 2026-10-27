@@ -1,13 +1,7 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="76%" valign="middle" style="border:0; padding:0;">
-      <img src="./readme/hero.svg" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist based in Jakarta" />
-    </td>
-    <td width="24%" align="right" valign="middle" style="border:0; padding:0;">
-      <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/felix_dgx.webp" width="210" alt="Felix beside NVIDIA DGX compute systems" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./readme/hero.svg?v=2a0629e" width="76%" align="middle" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist based in Jakarta" />
+  <img src="https://raw.githubusercontent.com/flxhrdyn/portfolio/main/public/felix_dgx.webp" width="20%" align="middle" alt="Felix beside NVIDIA DGX compute systems" />
+</p>
 
 <p align="center">
   <a href="https://flxhrdyn.vercel.app"><img src="./readme/icons/portfolio.svg" width="28" height="28" alt="Portfolio" /></a>
