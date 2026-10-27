@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme/hero.svg?v=left-crop-3" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist in Jakarta" />
+  <img src="./readme/hero.svg?v=role-spacing-5" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist in Jakarta" />
 </p>
 
 <br />
