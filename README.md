@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="./readme/hero.svg?v=bold-type-1" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist in Jakarta" />
+  <img src="./readme/hero.svg?v=left-bold-2" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist in Jakarta" />
 </p>
 
-<br />
+<br /><br />
 
 <p align="center">
   <img src="./readme/about.svg?v=profile-about-4" width="100%" alt="About Felix: AI/ML engineering, deep learning, and industrial data systems" />
 </p>
 
-<br />
+<br /><br />
 
 <p align="center">
   <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/contact.svg?v=clean-edges-5" width="100%" alt="Let’s talk about AI engineering. Open to roles and collaborations." /></a>
 </p>
 
-<br />
+<br /><br />
 
 <p align="center">
   <a href="https://flxhrdyn.vercel.app"><img src="./readme/icons/portfolio.svg" width="28" height="28" alt="Portfolio" /></a>
@@ -28,7 +28,7 @@
   <a href="https://huggingface.co/felixhrdyn"><img src="./readme/icons/huggingface-mark.svg" width="28" height="28" alt="Hugging Face" /></a>
 </p>
 
-<br />
+<br /><br />
 
 <p align="center">
   <picture>
