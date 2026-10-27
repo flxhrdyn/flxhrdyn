@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="./readme/hero.svg?v=ascii-portrait-4" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist, with an ASCII portrait" />
 </p>
 
