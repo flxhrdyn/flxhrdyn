@@ -1,13 +1,13 @@
 <p align="left">
   <img align="right" width="30%" src="./readme/felix-dgx.webp" alt="Felix standing beside NVIDIA DGX servers" />
-  <img src="./readme/hero-final.svg" width="65%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist" />
+  <img src="./readme/hero-name.svg" width="65%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist" />
 </p>
 <br clear="all" />
 
 <br />
 
-<p align="center">
-  <img src="./readme/about.svg?v=tunas-impact-5" width="100%" alt="About Felix: AI and data work at Tunas Group, HPC UG, and Astra Visteon" />
+<p align="left">
+  <img src="./readme/about.svg?v=left-justified-7" width="100%" alt="About Felix: AI and data work at Tunas Group, HPC UG, and Astra Visteon" />
 </p>
 
 <br />
