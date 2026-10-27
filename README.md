@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme/hero.svg?v=ascii-portrait-5" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist, with an ASCII portrait" />
+  <img src="./readme/hero.svg?v=ascii-portrait-6" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist, with an ASCII portrait" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/contact.svg?v=clean-edges-3" width="100%" alt="Let’s talk about AI engineering. Open to roles and collaborations." /></a>
+  <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/contact.svg?v=clean-edges-4" width="100%" alt="Let’s talk about AI engineering. Open to roles and collaborations." /></a>
 </p>
 
 <p align="center">
