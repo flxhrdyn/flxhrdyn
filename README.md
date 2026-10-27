@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="./readme/hero-dgx-scene.svg" width="100%" alt="Felix Windriyareksa Hardyan in an ASCII rendering of the full DGX server room photo" />
+  <img src="./readme/hero-geist-dgx.svg" width="100%" alt="Felix Windriyareksa Hardyan in an ASCII rendering of the full DGX server room photo" />
 </p>
 
 <p align="center">
-  <img src="./readme/about.svg?v=clean-edges-3" width="100%" alt="About Felix: AI/ML engineering, deep learning, and industrial data systems" />
+  <img src="./readme/about.svg?v=profile-about-4" width="100%" alt="About Felix: AI/ML engineering, deep learning, and industrial data systems" />
 </p>
 
+<br /><br />
+
 <p align="center">
-  <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/contact.svg?v=clean-edges-4" width="100%" alt="Let’s talk about AI engineering. Open to roles and collaborations." /></a>
+  <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/contact.svg?v=clean-edges-5" width="100%" alt="Let’s talk about AI engineering. Open to roles and collaborations." /></a>
 </p>
 
 <p align="center">
@@ -19,11 +21,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/flxhrdyn"><img src="./readme/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/felixhrdyn"><img src="./readme/icons/huggingface.svg" width="28" height="28" alt="Hugging Face" /></a>
-</p>
-
-<p align="center">
-  <img src="./readme/streak-heading.svg?v=clean-edges-3" width="100%" alt="GitHub activity and streak" />
+  <a href="https://huggingface.co/felixhrdyn"><img src="./readme/icons/huggingface-mark.svg" width="28" height="28" alt="Hugging Face" /></a>
 </p>
 
 <p align="center">
