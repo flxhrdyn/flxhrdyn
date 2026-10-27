@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img src="./readme/about.svg?v=profile-about-4" width="100%" alt="About Felix: AI/ML engineering, deep learning, and industrial data systems" />
+  <img src="./readme/about.svg?v=tunas-impact-5" width="100%" alt="About Felix: AI and data work at Tunas Group, HPC UG, and Astra Visteon" />
 </p>
 
 <br />

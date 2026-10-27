@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 295" role="img" aria-labelledby="title desc">
   <title id="title">About Felix</title>
-  <desc id="desc">AI & Data professional focused on business impact; Data Analyst Intern at PT Tunas Ridean Tbk (Tunas Group). Previously built predictive maintenance at Astra Visteon, improving critical-event detection from 0% to 60%. At HPC UG, fine-tunes generative AI and optimizes HPC workloads; co-authored AI reference book ISBN 9286020764751 and mentored 200+ researchers and students.</desc>
+  <desc id="desc">AI &amp; Data professional focused on business impact; Data Analyst Intern at PT Tunas Ridean Tbk (Tunas Group). Previously built predictive maintenance at Astra Visteon, improving critical-event detection from 0% to 60%. At HPC UG, fine-tunes generative AI and optimizes HPC workloads; co-authored AI reference book ISBN 9286020764751 and mentored 200+ researchers and students.</desc>
   <defs>
     <style><![CDATA[
       .paper { fill: #f7f6f2; }
