@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="./readme/hero-title.svg" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist" />
+<p align="left">
+  <img align="right" width="30%" src="./readme/felix-dgx.webp" alt="Felix standing beside NVIDIA DGX servers" />
+  <img src="./readme/hero-final.svg" width="65%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist" />
 </p>
+<br clear="all" />
 
 <br />
 
