@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 570" role="img" aria-labelledby="title desc">
-  <title id="title">Experience</title>
-  <desc id="desc">Current and previous roles in data analytics, AI engineering, data science, and teaching.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 435" role="img" aria-labelledby="title desc">
+  <title id="title">Selected experience</title>
+  <desc id="desc">Current and recent data and AI engineering roles.</desc>
   <defs>
     <style><![CDATA[
       .paper { fill: #f7f6f2; }
@@ -11,8 +11,8 @@
       .mono { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Consolas, monospace; }
       .label { font-size: 12px; letter-spacing: 1.5px; }
       .heading { font-size: 38px; font-weight: 500; letter-spacing: -2px; }
-      .date { font-size: 13px; }
-      .role { font-size: 19px; font-weight: 550; }
+      .date { font-size: 12px; }
+      .role { font-size: 18px; font-weight: 550; }
       .company { font-size: 14px; }
       .detail { font-size: 14px; }
       @media (prefers-color-scheme: dark) {
@@ -23,43 +23,29 @@
       }
     ]]></style>
   </defs>
-  <rect width="1200" height="570" class="paper" />
+  <rect width="1200" height="435" class="paper" />
   <text x="72" y="58" class="mono muted label">02 / EXPERIENCE</text>
   <text x="72" y="108" class="sans ink heading">Selected experience</text>
   <line x1="72" y1="132" x2="1128" y2="132" class="rule" stroke-width="1" />
 
-  <text x="72" y="169" class="mono muted date">SEP 2026 — PRESENT</text>
-  <text x="330" y="169" class="sans ink role">Data Analyst Intern</text>
-  <text x="330" y="193" class="sans muted company">PT Tunas Ridean Tbk (Tunas Group)</text>
-  <text x="710" y="169" class="sans muted detail">Automating sales, inventory, and aftersales analysis</text>
-  <text x="710" y="191" class="sans muted detail">across dealership networks.</text>
-  <line x1="72" y1="210" x2="1128" y2="210" class="rule" stroke-width="1" />
+  <text x="72" y="182" class="mono muted date">SEP 2026 — PRESENT</text>
+  <text x="330" y="180" class="sans ink role">Data Analyst Intern</text>
+  <text x="330" y="204" class="sans muted company">PT Tunas Ridean Tbk</text>
+  <text x="710" y="180" class="sans muted detail">Automating sales, inventory, and aftersales</text>
+  <text x="710" y="202" class="sans muted detail">analysis across dealership networks.</text>
+  <line x1="72" y1="226" x2="1128" y2="226" class="rule" stroke-width="1" />
 
-  <text x="72" y="247" class="mono muted date">SEP 2024 — PRESENT</text>
-  <text x="330" y="247" class="sans ink role">AI Engineer (part-time)</text>
-  <text x="330" y="271" class="sans muted company">HPC Universitas Gunadarma</text>
-  <text x="710" y="247" class="sans muted detail">Built a Qwen3-8B RAG lab assistant and deployed</text>
-  <text x="710" y="269" class="sans muted detail">distributed workloads on NVIDIA DGX systems.</text>
-  <line x1="72" y1="288" x2="1128" y2="288" class="rule" stroke-width="1" />
+  <text x="72" y="276" class="mono muted date">SEP 2024 — PRESENT</text>
+  <text x="330" y="274" class="sans ink role">AI Engineer (part-time)</text>
+  <text x="330" y="298" class="sans muted company">HPC Universitas Gunadarma</text>
+  <text x="710" y="274" class="sans muted detail">Built a RAG lab assistant and deployed</text>
+  <text x="710" y="296" class="sans muted detail">distributed workloads on NVIDIA DGX.</text>
+  <line x1="72" y1="320" x2="1128" y2="320" class="rule" stroke-width="1" />
 
-  <text x="72" y="325" class="mono muted date">JUN — SEP 2026</text>
-  <text x="330" y="325" class="sans ink role">Data Scientist Intern</text>
-  <text x="330" y="349" class="sans muted company">PT Astra Visteon Indonesia</text>
-  <text x="710" y="325" class="sans muted detail">Predictive maintenance across 150K+ records;</text>
-  <text x="710" y="347" class="sans muted detail">critical-event recall improved from 0% to 60%.</text>
-  <line x1="72" y1="366" x2="1128" y2="366" class="rule" stroke-width="1" />
-
-  <text x="72" y="403" class="mono muted date">JUN 2025 — JUN 2026</text>
-  <text x="330" y="403" class="sans ink role">Data Science Instructor</text>
-  <text x="330" y="427" class="sans muted company">LePKom Universitas Gunadarma</text>
-  <text x="710" y="403" class="sans muted detail">Mentored 200+ participants through end-to-end</text>
-  <text x="710" y="425" class="sans muted detail">machine learning projects.</text>
-  <line x1="72" y1="444" x2="1128" y2="444" class="rule" stroke-width="1" />
-
-  <text x="72" y="481" class="mono muted date">FEB — AUG 2025</text>
-  <text x="330" y="481" class="sans ink role">International AI Course Instructor</text>
-  <text x="330" y="505" class="sans muted company">Universitas Gunadarma</text>
-  <text x="710" y="481" class="sans muted detail">Taught Generative AI, NLP, and LLM application</text>
-  <text x="710" y="503" class="sans muted detail">design to international students and faculty.</text>
-  <line x1="72" y1="522" x2="1128" y2="522" class="rule" stroke-width="1" />
+  <text x="72" y="370" class="mono muted date">JUN — SEP 2026</text>
+  <text x="330" y="368" class="sans ink role">Data Scientist Intern</text>
+  <text x="330" y="392" class="sans muted company">PT Astra Visteon Indonesia</text>
+  <text x="710" y="368" class="sans muted detail">Predictive maintenance across 150K+ records;</text>
+  <text x="710" y="390" class="sans muted detail">critical-event recall improved from 0% to 60%.</text>
+  <line x1="72" y1="408" x2="1128" y2="408" class="rule" stroke-width="1" />
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
   <title id="title">Selected projects</title>
-  <desc id="desc">Five projects across industrial AI, retrieval systems, developer tools, and computer vision.</desc>
+  <desc id="desc">Aeroguard, InvenioAI, and Amon Hen.</desc>
   <defs>
     <style><![CDATA[
       .paper { fill: #f7f6f2; }
@@ -23,43 +23,29 @@
       }
     ]]></style>
   </defs>
-  <rect width="1200" height="610" class="paper" />
+  <rect width="1200" height="470" class="paper" />
   <text x="72" y="58" class="mono muted label">01 / SELECTED WORK</text>
   <text x="72" y="108" class="sans ink heading">Projects</text>
   <line x1="72" y1="132" x2="1128" y2="132" class="rule" stroke-width="1" />
 
-  <text x="72" y="174" class="mono muted index">01</text>
-  <text x="142" y="174" class="sans ink name">Aeroguard</text>
-  <text x="142" y="198" class="mono muted kind">INDUSTRIAL AI / PREDICTIVE MAINTENANCE</text>
-  <text x="600" y="174" class="sans muted description">Plant telemetry monitoring with persistent anomaly alerts</text>
-  <text x="600" y="197" class="sans muted description">and equipment breach forecasts.</text>
-  <line x1="72" y1="220" x2="1128" y2="220" class="rule" stroke-width="1" />
+  <text x="72" y="190" class="mono muted index">01</text>
+  <text x="142" y="190" class="sans ink name">Aeroguard</text>
+  <text x="142" y="215" class="mono muted kind">INDUSTRIAL AI / PREDICTIVE MAINTENANCE</text>
+  <text x="600" y="190" class="sans muted description">Plant telemetry, persistent anomaly alerts,</text>
+  <text x="600" y="213" class="sans muted description">and equipment breach forecasts.</text>
+  <line x1="72" y1="240" x2="1128" y2="240" class="rule" stroke-width="1" />
 
-  <text x="72" y="264" class="mono muted index">02</text>
-  <text x="142" y="264" class="sans ink name">InvenioAI</text>
-  <text x="142" y="288" class="mono muted kind">GENAI / RAG</text>
-  <text x="600" y="264" class="sans muted description">PDF question answering with hybrid retrieval, RAG Fusion,</text>
-  <text x="600" y="287" class="sans muted description">and cross-encoder reranking.</text>
-  <line x1="72" y1="310" x2="1128" y2="310" class="rule" stroke-width="1" />
+  <text x="72" y="298" class="mono muted index">02</text>
+  <text x="142" y="298" class="sans ink name">InvenioAI</text>
+  <text x="142" y="323" class="mono muted kind">GENERATIVE AI / HYBRID RAG</text>
+  <text x="600" y="298" class="sans muted description">PDF question answering with hybrid retrieval,</text>
+  <text x="600" y="321" class="sans muted description">RAG Fusion, and cross-encoder reranking.</text>
+  <line x1="72" y1="348" x2="1128" y2="348" class="rule" stroke-width="1" />
 
-  <text x="72" y="354" class="mono muted index">03</text>
-  <text x="142" y="354" class="sans ink name">Amon Hen</text>
-  <text x="142" y="378" class="mono muted kind">DEVELOPER TOOLS / ONNX</text>
-  <text x="600" y="354" class="sans muted description">CPU-native search across local video, visual frames,</text>
-  <text x="600" y="377" class="sans muted description">and spoken dialogue.</text>
-  <line x1="72" y1="400" x2="1128" y2="400" class="rule" stroke-width="1" />
-
-  <text x="72" y="444" class="mono muted index">04</text>
-  <text x="142" y="444" class="sans ink name">Angrist</text>
-  <text x="142" y="468" class="mono muted kind">DEVELOPER TOOLS / PYTHON</text>
-  <text x="600" y="444" class="sans muted description">AST-scoped Python repair verified in isolated worktrees</text>
-  <text x="600" y="467" class="sans muted description">with test and lint gates.</text>
-  <line x1="72" y1="490" x2="1128" y2="490" class="rule" stroke-width="1" />
-
-  <text x="72" y="534" class="mono muted index">05</text>
-  <text x="142" y="534" class="sans ink name">LUCIAN</text>
-  <text x="142" y="558" class="mono muted kind">COMPUTER VISION / HEALTHCARE</text>
-  <text x="600" y="534" class="sans muted description">Lung histopathology classification with 93.67% test accuracy</text>
-  <text x="600" y="557" class="sans muted description">and Grad-CAM visual explanations.</text>
-  <line x1="72" y1="580" x2="1128" y2="580" class="rule" stroke-width="1" />
+  <text x="72" y="388" class="mono muted index">03</text>
+  <text x="142" y="388" class="sans ink name">Amon Hen</text>
+  <text x="142" y="413" class="mono muted kind">DEVELOPER TOOLS / ONNX</text>
+  <text x="600" y="388" class="sans muted description">CPU-native search across local video</text>
+  <text x="600" y="411" class="sans muted description">and spoken dialogue.</text>
+  <line x1="72" y1="438" x2="1128" y2="438" class="rule" stroke-width="1" />
 </svg>
