@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./readme/linkedin-banner.png" width="100%" alt="ASCII portrait of Felix Windriyareksa Hardyan, AI Engineer and Data Scientist" />
+  <img src="./readme/hero.svg?v=ascii-portrait-2" width="100%" alt="Felix Windriyareksa Hardyan, AI Engineer and Data Scientist, with an ASCII portrait" />
+</p>
+
+<p align="center">
+  <img src="./readme/about.svg" width="100%" alt="About Felix: AI/ML engineering, deep learning, and industrial data systems" />
 </p>
 
 <p align="center">
@@ -12,14 +16,6 @@
   <a href="https://github.com/flxhrdyn"><img src="./readme/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/felixhrdyn"><img src="./readme/icons/huggingface.svg" width="28" height="28" alt="Hugging Face" /></a>
-</p>
-
-<p align="center">
-  <a href="https://flxhrdyn.vercel.app"><img src="./readme/projects.svg" width="100%" alt="Three selected AI and machine learning projects" /></a>
-</p>
-
-<p align="center">
-  <img src="./readme/experience.svg" width="100%" alt="Selected AI engineering and data science experience" />
 </p>
 
 <p align="center">
