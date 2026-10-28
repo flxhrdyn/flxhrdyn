@@ -4,19 +4,17 @@
 </p>
 <br clear="all" />
 
-<br />
-
 <p align="left">
   <img src="./readme/about.svg?v=left-justified-8" width="100%" alt="About Felix: AI and data work at Tunas Group, HPC UG, and Astra Visteon" />
 </p>
 
-<br />
+<img src="./readme/spacer.svg" width="1" height="8" alt="" />
 
 <p align="center">
   <a href="mailto:felixhardyanwork@gmail.com"><img src="./readme/contact.svg?v=clean-edges-5" width="100%" alt="Let’s talk about AI engineering. Open to roles and collaborations." /></a>
 </p>
 
-<br />
+<img src="./readme/spacer.svg" width="1" height="8" alt="" />
 
 <p align="center">
   <a href="https://flxhrdyn.vercel.app"><img src="./readme/icons/portfolio.svg" width="28" height="28" alt="Portfolio" /></a>
@@ -30,7 +28,7 @@
   <a href="https://huggingface.co/felixhrdyn"><img src="./readme/icons/huggingface-mark.svg" width="28" height="28" alt="Hugging Face" /></a>
 </p>
 
-<br />
+<img src="./readme/spacer.svg" width="1" height="8" alt="" />
 
 <p align="center">
   <picture>
